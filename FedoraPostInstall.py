@@ -7,7 +7,7 @@ Date            :2018
 Version         :0.1
 License         :MIT
 Dependent       :config.json
-Status          : In-Work & Not Stable
+Status          : In-Work & Not Stable/Working
 Description     :This is a port of my fedora-post-install
 bash shell script. https://github.com/davidprush/fedora-post-instal
 I am mostly doing this for developing my Python programming skills, so
