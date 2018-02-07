@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ConfigureSystem	../FedoraPostInstall.py	/^class ConfigureSystem(object):$/;"	kind:class	line:84
+FedoraPostInstall.py	../FedoraPostInstall.py	1;"	kind:file	line:1
+JsonData	../FedoraPostInstall.py	/^class JsonData(object):$/;"	kind:class	line:27
+MainMenu	../FedoraPostInstall.py	/^class MainMenu(object):$/;"	kind:class	line:93
+Path	../FedoraPostInstall.py	/^from pathlib import Path$/;"	kind:namespace	line:11
+__init__	../FedoraPostInstall.py	/^    def __init__(self, name=None):$/;"	kind:member	line:33
+__init__	../FedoraPostInstall.py	/^    def __init__(self, name=None):$/;"	kind:member	line:88
+__init__	../FedoraPostInstall.py	/^    def __init__(self, name=None):$/;"	kind:member	line:98
+check_selection	../FedoraPostInstall.py	/^    def check_selection(self, option=None, $/;"	kind:member	line:109
+clear_json_data	../FedoraPostInstall.py	/^    def clear_json_data(self):$/;"	kind:member	line:61
+display_menu	../FedoraPostInstall.py	/^    def display_menu(self):$/;"	kind:member	line:107
+do_option	../FedoraPostInstall.py	/^    def do_option(self):$/;"	kind:member	line:114
+getpass	../FedoraPostInstall.py	/^import getpass $/;"	kind:namespace	line:18
+glob	../FedoraPostInstall.py	/^import glob $/;"	kind:namespace	line:16
+httplib2	../FedoraPostInstall.py	/^import httplib2 $/;"	kind:namespace	line:19
+io	../FedoraPostInstall.py	/^import io $/;"	kind:namespace	line:17
+json	../FedoraPostInstall.py	/^import json$/;"	kind:namespace	line:20
+list_format_print	../FedoraPostInstall.py	/^    def list_format_print(self, obj, cols=4, $/;"	kind:member	line:68
+log_event	../FedoraPostInstall.py	/^def log_event():$/;"	kind:function	line:128
+main	../FedoraPostInstall.py	/^def main():$/;"	kind:function	line:139
+math	../FedoraPostInstall.py	/^import math$/;"	kind:namespace	line:21
+open_json_infile	../FedoraPostInstall.py	/^    def open_json_infile(self, pathfile):$/;"	kind:member	line:38
+open_json_outfile	../FedoraPostInstall.py	/^    def open_json_outfile(self, pathfile):$/;"	kind:member	line:43
+os	../FedoraPostInstall.py	/^import os $/;"	kind:namespace	line:14
+print_function	../FedoraPostInstall.py	/^from __future__ import print_function$/;"	kind:namespace	line:9
+print_json_dict	../FedoraPostInstall.py	/^    def print_json_dict(self):$/;"	kind:member	line:65
+print_json_dict_keys	../FedoraPostInstall.py	/^    def print_json_dict_keys(self):$/;"	kind:member	line:48
+print_json_dict_values	../FedoraPostInstall.py	/^    def print_json_dict_values(self):$/;"	kind:member	line:54
+subprocess	../FedoraPostInstall.py	/^import subprocess $/;"	kind:namespace	line:15
+sys	../FedoraPostInstall.py	/^import sys $/;"	kind:namespace	line:13
+test_selection	../FedoraPostInstall.py	/^    def test_selection(self):$/;"	kind:member	line:117
